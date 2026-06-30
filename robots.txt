@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://johnikim72.github.io/johni-kim-shop/sitemap.xml
